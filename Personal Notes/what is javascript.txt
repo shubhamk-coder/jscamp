@@ -1,0 +1,14 @@
+JavaScript is a just-in-time (JIT) compiled, multi-paradigm programming language with dynamic typing.
+Combined with HTML and CSS, JavaScript is one of the leading technologies used in the World Wide Web. 
+
+Initially, JavaScript could only be used on the client-side – that is, web browsers. But with Node.js, a cross-platform runtime environment for JavaScript, code can be written and executed server-side. 
+
+Nearly every browser has an exclusive JavaScript engine to execute code. And most websites depend on JavaScript for their client-side behavior. 
+
+JavaScript’s JIT compiler is especially noteworthy. Interpreted languages are known for being slower than compiled languages. But the JIT compiler is a feature of the run-time interpreter. 
+
+With it, you can have the advantages of an interpreted language like dynamic typing alongside the advantages of compiled code like stricter error prevention.
+
+Dynamic typing is another feature of JavaScript. This feature signifies looser restrictions around variable declarations. 
+
+Similarly, object-oriented programming, one of the multiple programming paradigms that JavaScript supports, gives developers the flexibility to think more intuitively.
