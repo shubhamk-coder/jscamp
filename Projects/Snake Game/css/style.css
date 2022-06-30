@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -13,24 +15,26 @@
     align-items: center;
 }
 
-.scoreBox {
+#scoreBox {
     position: absolute;
     top: 9px;
     right: 200px;
     font-size: 40px;
     font-weight: bold;
+    font-family: 'Dosis', sans-serif;
 
 }
-.scoreBox {
+#hiscoreBox {
     position: absolute;
     top: 59px;
-    right: 150px;
+    right: 180px;
     font-size: 40px;
     font-weight: bold;
+    font-family: 'Dosis', sans-serif;
 
 }
 
-.board {
+#board {
     background: linear-gradient(green, yellow);
     width: 90vmin;
     height: 92vmin;
